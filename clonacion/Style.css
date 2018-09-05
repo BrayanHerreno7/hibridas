@@ -1,0 +1,29 @@
+*{
+    font-family: 'Muli', sans-serif;
+}
+
+header{
+    background-color: #f2f2f2
+}
+
+header section nav{
+    display: inline-block;
+}
+
+header section nav ul li{
+    display: inline-block;
+    padding: 5px;
+}
+
+header section .nav-left{
+    position: absolute;
+    left: 0;
+}
+
+header section .nav-rigth{
+    position: absolute;
+    right: 3%;
+}
+
+
+
